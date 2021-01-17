@@ -58,10 +58,10 @@ exports[`renders as an anchor when no page is set 1`] = `
 exports[`renders correctly 1`] = `
 <a
   className="normal"
-  href="http://www.facebook.com"
+  href="http://www.baidu.com"
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}
 >
-  Facebook
+  Baidu
 </a>
 `;
